@@ -31,7 +31,7 @@ development. Brief descriptions and links to those project repositories are foun
 
 ![IssueTrac Component Diagram](./dist/images/component.png)
 
-## Use Stories
+## User Stories
 
 1. A citizen is walking on a sidewalk and notice a large crack in the surface. The section of sidewalk is heaved upwards
    creating a tripping hazard and wishes to report the issue, an image(s) and location immediately to the appropriate
