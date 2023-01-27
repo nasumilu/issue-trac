@@ -77,3 +77,9 @@ development. Brief descriptions and links to those project repositories are foun
    compliant applications can ingest the information for complex analysis.
 
 ![IssueTrac UseCase Diagram](./dist/images/use-case.png)
+
+## Application Wireframe
+
+![Desktop Wireframe](dist/images/wireframe-desktop.png)
+
+![Mobile Wireframe](dist/images/wireframe-mobile.png)
