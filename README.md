@@ -14,7 +14,7 @@ city levels.
 The project is organized into different repositories with each encompassing a specific area of the applications' 
 development. Brief descriptions and links to those project repositories are found below:
 
-- [nasumilu/issue-trac-databasse (a.k.a IssueTrac Database)](https://github.com/nasumilu/issue-trac-databsase) project 
+- [nasumilu/issue-trac-databasse (a.k.a. IssueTrac Database)](https://github.com/nasumilu/issue-trac-databsase) project 
   contains all things database which is associated with the application. This includes entity relationship diagrams 
   (ERD), set-up sql and scripts, and any initial application data.
 
@@ -22,11 +22,11 @@ development. Brief descriptions and links to those project repositories are foun
   feature information is a standard way. The application will adhere to the minimum standards outlined by the 
   Open Geospatial Consortium (OGC) [Feature - OGC API standard](https://docs.opengeospatial.org/is/17-069r4/17-069r4.html).
 
-- [nasumilu/issue-trac (a.k.a IssueTrac API)](https://github.com/nasumilu/issue-trac-api) is the actual issue 
+- [nasumilu/issue-trac (a.k.a. IssueTrac API)](https://github.com/nasumilu/issue-trac-api) is the actual issue 
   tracking/work management applications that will provide the necessary application programming interface (API) to create, 
   read, and update issues by providing an interface between application, database(s), and other **backend** web services.
 
-- [nasumilu/issue-trac-web (a.k.a IssueTrac Web)](https://github.com/nasumilu/issue-trac-web) is a single page 
+- [nasumilu/issue-trac-web (a.k.a. IssueTrac Web)](https://github.com/nasumilu/issue-trac-web) is a single page 
   application (SPA) which gives a face to the IssueTrac API. 
 
 ![IssueTrac Component Diagram](./dist/images/component.png)
