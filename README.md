@@ -23,7 +23,7 @@ development. Brief descriptions and links to those project repositories are foun
   Open Geospatial Consortium (OGC) [Feature - OGC API standard](https://docs.opengeospatial.org/is/17-069r4/17-069r4.html).
 
 - [nasumilu/issue-trac (a.k.a IssueTrac API)](https://github.com/nasumilu/issue-trac-api) is the actual issue 
-  tracking/work management applications that will provide the necessary application protocol interface (API) to create, 
+  tracking/work management applications that will provide the necessary application programming interface (API) to create, 
   read, and update issues by providing an interface between application, database(s), and other **backend** web services.
 
 - [nasumilu/issue-trac-web (a.k.a IssueTrac Web)](https://github.com/nasumilu/issue-trac-web) is a single page 
