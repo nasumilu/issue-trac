@@ -99,7 +99,7 @@ development. Brief descriptions and links to those project repositories are foun
   - [Java](https://www.java.com/en/) high-level object-oriented programming language
   - [PHP](https://www.php.net/) a general purpose scripting language suite for the web
   - [TypeScript](https://www.typescriptlang.org/) a strongly typed language which builds javascript
-  - [Bash][https://www.gnu.org/software/bash/] Bourn Again SHell
+  - [Bash](https://www.gnu.org/software/bash/) Bourn Again SHell
   - SQL & [PlpgSQL](https://www.postgresql.org/docs/current/plpgsql.html) SQL and a procedural programming language for PostgreSQL
   - HTML, CSS, & [Sass](https://sass-lang.com/)
   
