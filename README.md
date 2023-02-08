@@ -83,3 +83,35 @@ development. Brief descriptions and links to those project repositories are foun
 ![Desktop Wireframe](dist/images/wireframe-desktop.png)
 
 ![Mobile Wireframe](dist/images/wireframe-mobile.png)
+
+## Resources
+- [Dia Diagram Editor](http://dia-installer.de/) an opensource UML editor
+- [Wireframe.css](https://wireframe.cc/) an online service for creating wireframes
+- [GIMP](https://www.gimp.org/) an opensource image manipulation program
+- [JetBrains Suite](https://www.jetbrains.com/)
+  - [IntelliJ IDEA](https://www.jetbrains.com/idea/) a commercial Java & Kotlin IDE
+  - [PhpStorm](https://www.jetbrains.com/phpstorm/) a commercial Php IDE
+  - [DataGrip](https://www.jetbrains.com/datagrip/) a commercial IDE for SQL development
+  - [WebStorm](https://www.jetbrains.com/webstorm/) a commercial IDE for html, css, javascript, and typescript
+
+## Technologies
+- Programming Languages
+  - [Java](https://www.java.com/en/) high-level object-oriented programming language
+  - [PHP](https://www.php.net/) a general purpose scripting language suite for the web
+  - [TypeScript](https://www.typescriptlang.org/) a strongly typed language which builds javascript
+  - [Bash][https://www.gnu.org/software/bash/] Bourn Again SHell
+  - SQL & [PlpgSQL](https://www.postgresql.org/docs/current/plpgsql.html) SQL and a procedural programming language for PostgreSQL
+  - HTML, CSS, & [Sass](https://sass-lang.com/)
+  
+- Frameworks
+  - [Angular](https://angular.io/) web development framework for creating single page application
+  - [Spring](https://spring.io/) Many things, but in this projects context a Java backend framework
+  - [Symfony](https://symfony.com/) A Php framework web, cli, etc.
+  - [Bootstrap](https://getbootstrap.com/) web frontend toolkit 
+  - [OpenLayers](https://openlayers.org/) A javascript library for creating dynamic maps on the web
+  - [Leaflet](https://leafletjs.com/) lightweight javascript library for making interactive maps
+  - [Hotwire Stimulus](https://stimulus.hotwired.dev/) javascript framework
+  - [MySQL](https://www.mysql.com/) an opensource relational database
+  - [PostgreSQL](https://www.postgresql.org/) an opensource object-relational database
+  - [PostGIS](https://postgis.net/) a spatial database extender for PostgreSQL
+  - [ogr2ogr](https://gdal.org/programs/ogr2ogr.html) a [GDAL](https://gdal.org/) utility for converting simple feature between formats
