@@ -18,6 +18,11 @@ development. Brief descriptions and links to those project repositories are foun
   contains all things database which is associated with the application. This includes entity relationship diagrams 
   (ERD), set-up sql and scripts, and any initial application data.
 
+- [nasumilu/geocoder-bundle (a.k.a. Geocoder Service)](https://github.com/nasumilu/geocoder-bundle) project is a very 
+  simple Symfony bundle which maybe installed as a standalone application or included in another Symfony applications. 
+  The bundle, when configured, provides a simple to install [Symfony Flex](https://symfony.com/doc/current/setup/flex.html)
+  recipe to get things up and running quickly. 
+
 - [nasumilu/feature-server](https://github.com/nasumilu/feature-server) is an application which provides discrete 
   feature information is a standard way. The application will adhere to the minimum standards outlined by the 
   Open Geospatial Consortium (OGC) [Feature - OGC API standard](https://docs.opengeospatial.org/is/17-069r4/17-069r4.html).
